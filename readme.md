@@ -1,0 +1,4 @@
+This repo does not aim to be the end all be all for information on testing in javascript. We will attempt to address things as best as possible, discussing methodologies and systems with bet practices always in mind.
+In this repo is a document called general.md. In this documment we will discuss and review some of the general questions about TDD and BDD in JavaScript.
+Framework specific information can befound in the md file after it's name. For example, stuff about Mocha.js can be found in mocha.md.
+we should generate workable sample files with the naming convention <document>-<example>.js. e.g. example 2 from the mocha.md document would be named mocha-2.js
